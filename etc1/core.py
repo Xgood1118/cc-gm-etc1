@@ -11,11 +11,6 @@ class Block:
     mode: str = "individual"
 
 
-def Block:
-    """class"""
-    raise NotImplementedError("Block 尚未实现")
-
-
 def encode_block(pixels, mode):
     """编码一块"""
     raise NotImplementedError("encode_block 尚未实现")
