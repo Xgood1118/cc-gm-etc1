@@ -1,1 +1,1 @@
-"""ETC1 块编解码"""
+from .core import *  # noqa: F401,F403
